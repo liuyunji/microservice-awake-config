@@ -8,8 +8,6 @@ spring:
   profiles: dev # 开发环境
   application:
     name: microservice-awake-config-dev
-    admin:
-      jmx-name:
 
 ---
 spring:
